@@ -28,3 +28,7 @@ However, in dev mode, during component mount, the React Effect function executes
 The React Effect is in fact executed twice during component mount.
 
 This behavior was decided upon by the people who design React so that the React developer can identify bugs in the cleanup function.
+
+_Author: Gautam Ramasubramanian_
+
+_Last Updated: May 3, 2024_

@@ -150,3 +150,7 @@ _(Above code snippet taken from sequelize documentation)_
 `await jane.increment('age', { by: 2 })` will increment numerical properties of model instance without concurrency issues.
 
 `await jane.decrement('cash')` will decrement numerical properties of model instance without concurrency issues.
+
+_Author: Gautam Ramasubramanian_
+
+_Last Updated: May 4, 2024_
